@@ -9,6 +9,71 @@ coursepage: false
 ## “Caring requires paying attention, seeing, listening, responding with respect. Its logic is contextual, psychological. Care is a relational ethic, grounded in a premise of interdependence. But it is not selfless.”
 ### ― Carol Gilligan, *Joining the Resistance*
 
+# Website Post 4
+
+## IBM Case Brief
+
+### Relevant Facts
+
+* IBM’s German subsidiary’s top management was comprised of openly rabid Nazis who were arrested after the war for their Party affiliation
+
+* IBM knew that it was courting and doing business with the upper echelon of the Nazi Party.
+
+* The company leveraged its Nazi Party connections to continuously enhance its business relationship with Hitler's Reich.
+
+* IBM subsidiaries trained the Nazi officers and their surrogates throughout Europe.
+
+* IBM's machines tabulated and tracked census information in order to identify Jewish populations across Europe.
+
+* Slave labor was identified, tracked, and managed largely through punch cards. Punch cards even made the trains run on time and cataloged their human cargo.
+
+* IBM maintained sales quotas for all its subsidiaries during the Hitler-era.
+
+* Everything was leased and regularly maintained by IBM technicians, some of who serviced the tabulation machines biweekly on-site at the concentration camps 
+
+### Listing of Stakeholders
+
+1. __IBM__ - Condemned actions of Nazis. They claimed that IBM loss control of their German subsidiaries. As such they believe that IBM was not directly responsible. 
+
+2. __Holocaust Survivors__ - IBM’s technology allowed for the mass extermination of Jews that would have otherwise not happened (to that extent) if IBM and their subsidiaries did not aid the Germans with their punch card machines. As such IBM is responsible for their share of contributions to the atrocities. 
+
+3. __Present and Future Consumer Companies__ - They may feel that they are not responsible for how their products are used, and that responsibility ends at purchase. “Rope makers not responsible for those who hung people with them”.
+
+### Statement on Ethical Culpability of IBM
+
+The Ethics of Care believes that those affected by one's choices should be considered with proportion to their vulnerability. It is apparent that initially IBM could not have foreseen what their technologies would be used for the atrocities of the holocaust. The Ethics of Care would say that initially IBM would have not been found culpable for the atrocities, given that they simply be nurturing their interests by pursuing existing and new business relations. Despite this, the Ethics of Care would find IBM partly responsible when, as the facts state, they found out what their technology was being used for. In this instance, the ethics of care would prioritize the interests of those most vulnerable, the Jewish groups in Germany and surrounding regions. IBM’s conscious disregard for the use of their technologies and their continual support of the Nazi Party ultimately has led the Ethics of Care framework to label them morally culpable to the the acts which they facilitated.
+
+## Analysis of Muslim Registry Controversy
+
+The controversy surrounding the idea of the “Muslim Registry” was sparked from certain comments made by President Trump, particularly during his campaign and the early days of his presidency. President Trump had made comments regarding “vetting” people of the Muslim faith in order to better safeguard the nation’s security. Additionally, a claim raised by Kansas Secretary of State Kris Kobach suggested that Trump’s Administration was planning to implement such a system, possible with the use of the NSEERS system put into place in 2002. NSEERS was a screening and tracking system adopted in 2002, exactly a year after 9/11, with goal of tracking foreign nationals and non-citizens that had entered the USA. This program lasted only a little over a year, and individuals on the list were officially “de-listed” in 2011.
+ 
+It is interesting to note that there does indeed exist a precedent for such behavior, as claimed by the Liberty Conservative article. Such a precedent dates back to the internment of Japanese Americans during World War II, which was legitimized by the Korematsu v. United States Supreme Court decision. One can see that this case is similar to the controversy existing today in the sense that a group of people is being targeted based upon a certain trait.
+
+When considering the question over whether a private corporation should be able to implement a Muslim registry, one can look to the Ethics of Care as a guideline. Firstly, it is true that hundreds of private corporations already make a business out of collecting and then selling the personal information of individuals. With this in mind, it would certainly be possible for a particular private corporation to amass data concerning the Muslim population in America. The question now becomes the purpose for which the data would be utilized by this corporation. Certain uses for personal information are benign or indeed helpful. Websites might use personal information to help set preferences and settings. One’s location might be used to set a timezone whereas one’s gender expression might be used to ensure the website uses the preferred pronouns when addressing the user. Sometimes, even this so-called helpful analytics can become controversial. For example, the wireless network Sprint, uses customer data like location, websites visited, etc. to help target advertisements. While this may not be harmful directly, many saw this as an invasion of privacy when it was first announced and still do. On the other hand, this technology could help small businesses find potential customers and build relationships in their communities. And it could help others find services and products most relevant to them. From this perspective, it’s clear that the use of personal information is not inherently bad, it’s important to read between the lines as well. It’s hard to imagine that the intent behind a Muslim registry would stop at targeted advertisements. A more insidious example of the use of personal information by a private entity were the recent accusations of wireless carriers of selling emergency location data that is supposed to be used exclusively for emergency situations. Concerningly enough, among the accused companies is Sprint, which stands as a hard reminder that even when entities claim to be collecting personal information for the greater good, darker motives may be in play. This is critical to the ethical evaluation of something like a Muslim registry. Even if a sound argument is made for its creation, what role does the potential for evil play? Can we be certain that this registry won't be weaponized against innocent people, even if the original intent was good? And any doubt that this kind of data collection could go wrong should be quenched by the horrific narrative that played out between IBM and the Nazis. It was used to divide, to alienate, and eventually to exterminate. The idea of a Muslim registry shows dark parallels to this devastating mark on history, and we’d best ensure we do not repeat those mistakes.
+
+Cultural alienation stands as a final argument against the Muslim registry from the Ethics of Care. To label people, divide them, pigeonhole them, is to threaten the relationships and communities that bind, or should bind, our societies. To label “us” and “them” is to divide, and so the Ethics of Care must stand in strong opposition.
+
+If such a registry were to be implemented by the government, one must once again consider the way in which data would be used, and to what extent relationships would be affected. In essence, a government exists to serve all of the people in its nation, regardless of any background information, including race and religion. Furthermore, a government should strive to protect the privacy, security, and well-being of its people, regardless of status. This purpose of governments ties directly into one of the core tenets of the Ethics of Care – relationships. The government certainly shares a unique relationship to all people who live in the country under this government in question. Accordingly, a government should aim to better these relationships continually, and definitely not to strain them.
+ 
+On this note, instituting a Muslim registry would almost certainly aggravate relationships with Muslim people, and quite possibly to people beyond this group. The singling out of this particular group, really regardless of the purpose for which the registry would be used, can really only harm the trust that exists in the unique relationship between a government and its people. Furthermore, as the Muslim population is a minority in this country, targeting this group is even further against the beliefs of the Ethics of Care, which calls for the care of the most vulnerable groups. A government, therefore, exists to serve all of its people equally and fairly, and in this particular case, the implementation of a Muslim registry could seriously damage the vital relationship between a government and the people. For this reason, Ethics of Care would argue to disallow a government from engaging in such a practice.
+
+## First Interview: Epicurean Ethics
+
+For the first of the two interviews to conduct, the subject was Andres Alonso, a junior in the Epicurean ethics framework. In this interview, I planned on asking him a brief summary of his ethical framework before continuing to the main point, attempting to determine his framework’s point of view on the implementation of a registry of every Muslim citizen.
+
+Before conducting this interview, I considered how both my framework and his would differ on this issue. From an ethics of care perspective, we would vigorously be against the Muslim registry as it would provide little to no benefits to people’s internal relationships and would most likely just be used for poor actions.  However, epicurean ethics I would anticipate does not have a clear-cut opinion on the topic, as it can be easily used to argue for or against it. For example, If the goal of the registry was to remove pain and it could be proven to do so, then, in theory, an epicurean ethicist should be all for it. However, it is also entirely possible to make an argument that the registry can only eventually lead to someone misusing that information and hence will lead to a clear increase in pain.
+
+My initial thoughts and assumptions about epicurean ethics were in fact correct. When asked about the question, Andres sat and thought for a while considering his options, and eventually simply said that he wasn’t sure about his group’s take on the topic. He then proceeded to use very similar arguments that I had predicted to make the case both for and against the framework.
+
+Eventually though, he concluded that an Epicurean would be against the framework because although it would make the supporters of it more “free” with less pain due to the fact that it would in their minds increase security, the long term and extreme potential of this registry to be used to create pain would completely offset the short term benefits. Also, due to the fact that there is no evidence that a registry would actually increase national security, it isn’t worth the potential pain to create the system.
+        	
+Having studied that frame of ethics in two of my other ethics classes I have taken at Notre Dame, I was confident that it would be a split decision on the issue, but eventual Andres did conclude that it was not as contentious as I would have believed. However, even though it was clear that Andres was very knowledgeable about his framework, I do believe that his personal ethical biases did get slightly in the way of what a true epicurean ethicist would say. This does not mean that he was incorrect, though, it just confirms what is widely known about Epicurean ethics which is that it can easily be taken in a variety of different directions simply off of a person’s own views and biases.
+
+## Second Interview: Stoic Ethics
+
+We interviewed a member from the Stoic Ethics group to discuss the issue of a muslim registry. The muslim registry was is an idea that was advocated for by President Donald Trump while campaigning for the 2016 Presidential Election and has since stirred a lot of controversy in the tech field. In response, groups of engineers and computer scientists pledged to never build such a registry that would target others on the basis of race or religion as such a program would be unethical. To get another perspective on this issue, I interviewed Kendyl Petitt from the stoic ethics group. From the stoic perspective, the existence of a muslim registry inherently defies what is considered to be virtuous as it promotes systemic bias and prejudice. Kendyll stated that “practicing bias or prejudice goes against our perspective that data use should be done in a virtuous manner.” From our ethics of care perspective, we also believe that the existence of a muslim registry would be in violation of our beliefs as well. While stoic ethics points to the unvirtuous nature of the registry, we would argue that the fact that such a registry was proposed from politics that is largely male dominated and functions with little input from women and people of color, that the registry is unethical. We believe that the inherently biased system, due to its lack of input from women and minorities, would create an equally biased program like the muslim registry. The stoic perspective and the ethics of care perspective both agree that the muslim registry is unjust and should not be implemented. However, our perspectives of why the registry is unjust slightly deviate. Nevertheless, we agreed that no system should exist that targets groups of people based of race, sex, religion, or sexual orientation for malign purposes. A solution from the stoic perspective would require that the registry does not target specific groups and from the ethics of care perspective, that the political system that allowed such a concept to arise be reformed and include the voices of minorities in addition to not targeting specific groups.
+
+
 # Website Post 3
 
 ## Summary
