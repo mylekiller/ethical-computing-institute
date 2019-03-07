@@ -9,6 +9,75 @@ coursepage: false
 ## “Caring requires paying attention, seeing, listening, responding with respect. Its logic is contextual, psychological. Care is a relational ethic, grounded in a premise of interdependence. But it is not selfless.”
 ### ― Carol Gilligan, *Joining the Resistance*
 
+# Website Post 7
+
+## Summary of Computer Assisted Warfare
+
+Until very recently, war has been an act taken between humans. We engaged each other as humans, and when the decision to kill had to be made, that finality was reached at the hand of a thinking, feeling, person. With the advent of computerized weapons systems, that has changed, introducing a whole host of ethical questions. On one hand, these systems could reduce the need for human casualty, since a robot need not defend itself. On the other hand, robots could malfunction, unleashing a torrent of unconstrained lethal force. To address the first point from within the framework of the Ethics of Care, it’s important to realize that these systems are, and would be, programmed by humans. They would make decisions only as ethical as their programmers instruct them to. And so if, for example, a UAV, were programmed to emulate a human pilot, then we wouldn’t see the robot being more humane. At best, it would be only as humane, not accounting for errors. During the United States drone engagements in the Middle East, wherein thousands of innocent civilians, including children, were hurt or killed, would a robot programme to do exactly as the humans would have been any more humane? Probably not. The Ethics of Care emphasises this human element, and so recognizes the possibility that these robots are used to enforce an oppressive hegemony without the risk of militaristic engagements coming back to harm the instigators. The Ethics of Care also recognizes the possibility of malfunction, and the hazards that presents to humans. These things considered, the Ethics of Care stands against the computerization of warfare.
+
+## Summary of Online Censureship
+
+Online censorship is the suppression of information on the Internet. This has caused many issues such as internet users not being able to access the information they desired and people not being able to provide the material they desired. All users of the internet should be able to access public information as they wished. The framework of the ethics of care focuses on taking responsibility for those who are vulnerable and they are the internet users who could not obtain or publish the information on the internet. The ethics of care support those who are unable to obtain the public information they desired and provide ways for them to voice their own opinions on online platforms. Specifically, in the EU, operators of digital platforms will have to crowdsource a database of materials with copyrights that users essentially censored if posted these materials. Many believe that it’s dangerous to ask tech companies to decide what’s legitimate free speech. As digital platforms and social media are becoming a very common way of human interaction, all users become vulnerable to the regulation from governments and tech companies. In many other countries, certain websites are not allowed access due to information regulation laws. Internet users from these countries become helpless regarding the information they wish to access. Actions like this from governments are against the ethics of care and those who are susceptible to censorship should have their rights of information access protected.
+
+## Summary of Job Automation
+
+Job automation is a pressing issue that has a lot of people torn somewhere in between scared and excited. On one hand, technology is advancing at an unprecedented rate, so many would like to capitalize on the fruits of our labor and make as many things as convenient as possible. On the other hand, since society hasn’t experienced advancement like this since the industrial revolution, many fear the predicted and unforeseen consequences of making such a drastic change. Specifically, the mass loss of jobs across fast food chains and several major industries. It is for this reason that ethics of care would suggest taking a position against job automation, or more importantly at least against job automation on a large scale. An immediate switch to automation would leave countless people without a source of income or a similar lower-skill job to turn to, which would be completely unattentive, irresponsible, and overall damaging to the relationships involved through these companies. If the companies involved (or some other entity, government, etc) was involved enough to provide sufficient warning, resources, funding, or some sufficient means of help to employees being laid off, Care Ethics would suggest that job automation would actually be the moral thing to do, all parties (higher level executives, employees, consumers) considered.
+
+## Algorithm For Ethical Framework Decisions
+
+The inputs to the algorithm are:
+
+P 	= a list of people that are impacted by the decision
+
+E 	= a list aligned with P of the effects the decision being taken has (can be +/-)
+
+E’	= a list aligned with P of the effects the decision not being taken has (can be +/-)
+
+S  	= effect of the decision being taken has on individual making the decision
+
+S’  	= effect of the decision not being taken has on individual making the decision
+
+Assume that we have a function that returns a vulnerability_weight for any person (higher weight means more vulnerable). Assume total of effects and non-effects add up to 0
+
+```
+ethics_of_care(P, E, E’, S, S’):
+# find all of the negative vulnerability score with the action being taken
+negative_people_for = list()
+for i, p in P: if E[i] < 0: negative_people_for.append(i)
+
+	if len(negative_people_for) == 0 && S > 0: return “Ethical”
+
+# Otherwise, find out if there are any vulnerable parties that are worse than the decider
+worst_off_for=vulnerability_weight(D)*S, num_worse_for = 0
+for i in  negative_people_for:
+	if vulnerability_weight(P[i])*E[i] > vulnerability_weight(D)*S
+		if worst_off_for > vulnerability_weight(P[i])*E[i]
+worst_off_for = vulnerability_weight(P[i])*E[i]
+		num_worse_for++
+
+# Now, do a similar thing for people against the decision
+negative_people_against = list()
+for i, p in P: if E’[i] < 0: negative_people_against.append(i)
+
+# Otherwise, find out if there are any vulnerable parties that are worse than the decider
+worst_off_against=vulnerability_weight(D)*S’, num_worse_against = 0
+for i in  negative_people_for:
+	if vulnerability_weight(P[i])*E’[i] > vulnerability_weight(D)*S’
+		if worse_off_against > vulnerability_weight(P[i])*E’[i]
+worst_off_against = vulnerability_weight(P[i])*E’[i]
+		num_worse_against++
+
+	# Compare results
+	if num_worse_for > num_worse_against && worse_off_for < worse_off_against:
+		return “Unethical”
+	elif num_worse_for > num_worse_against:
+		return “Probably Unethical
+	elif worse_off_for > worse_off_against:
+		return “Ethical”
+	else:
+		return “Probably Ethical”
+```
+
 # Website Post 6
 
 ## Summary of Key Issues and Potential Stake Holders in Job Automation
